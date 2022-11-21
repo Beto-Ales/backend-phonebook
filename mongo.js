@@ -31,7 +31,7 @@ if (process.argv.length < 4) {
 })
 }
            
-// password: RtBqdLV1TuK7OSJc
+
 
 
 
